@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1001,
+    "title": "东莞匠运ALS-040ARN报价确认",
+    "customer": "东莞匠运精密",
+    "owner": "苏",
+    "priority": "P0",
+    "deadline": "2026-06-05T10:00:00",
+    "note": "48小时报价时效",
+    "status": "urgent",
+    "createdAt": "2026-06-04T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1002,
+    "title": "青岛宝丽金样品制作跟进",
+    "customer": "青岛宝丽金",
+    "owner": "褚玮",
+    "priority": "P0",
+    "deadline": "2026-06-06T18:00:00",
+    "note": "6月机床展用",
+    "status": "week",
+    "createdAt": "2026-06-03T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1003,
+    "title": "广东捷程数控交期协调",
+    "customer": "广东捷程数控",
+    "owner": "苏",
+    "priority": "P1",
+    "deadline": "2026-06-05T06:00:00",
+    "note": "已下单4.2万元",
+    "status": "urgent",
+    "createdAt": "2026-06-03T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1004,
+    "title": "SFC-050螺栓缺口协调",
+    "customer": "多客户",
+    "owner": "苏",
+    "priority": "P0",
+    "deadline": "2026-06-09T18:00:00",
+    "note": "1.5万pcs缺口",
+    "status": "week",
+    "createdAt": "2026-06-04T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1005,
+    "title": "浙江芯晖技术讲习会安排",
+    "customer": "浙江芯晖",
+    "owner": "苏",
+    "priority": "P1",
+    "deadline": "2026-06-14T18:00:00",
+    "note": "半导体客户",
+    "status": "week",
+    "createdAt": "2026-06-01T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1006,
+    "title": "深圳诚创客户拜访后报价",
+    "customer": "深圳诚创",
+    "owner": "雷洪",
+    "priority": "P1",
+    "deadline": "2026-06-05T22:00:00",
+    "note": "拜访后48小时报价",
+    "status": "urgent",
+    "createdAt": "2026-06-03T20:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1007,
+    "title": "海天精工型号确认",
+    "customer": "海天精工",
+    "owner": "杨尚达",
+    "priority": "P2",
+    "deadline": "2026-06-11T18:00:00",
+    "note": "ALS-065ARN确认",
+    "status": "normal",
+    "createdAt": "2026-06-02T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  },
+  {
+    "id": 1008,
+    "title": "日本总部委托进度同步",
+    "customer": "日本总部",
+    "owner": "王成",
+    "priority": "P1",
+    "deadline": "2026-06-07T18:00:00",
+    "note": "7+2项委托",
+    "status": "week",
+    "createdAt": "2026-05-31T08:00:00",
+    "updatedAt": "2026-06-04T08:00:00"
+  }
+]
